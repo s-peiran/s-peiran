@@ -49,7 +49,7 @@
 <h2 align="left">🌟 Top Used Languages</h2>
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-    <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-peiran&layout=compact&langs_count=6" />
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-peiran)](https://github.com/s-peiran/github-readme-stats)
 </div>
 
 
