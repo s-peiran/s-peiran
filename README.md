@@ -48,9 +48,9 @@
 
 <h2 align="left">🌟 Top Used Languages</h2>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-peiran)](https://github.com/s-peiran/github-readme-stats)
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-peiran)](https://github.com/s-peiran/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-peiran)](https://github.com/s-peiran/github-readme-stats)
+
 
 
 
